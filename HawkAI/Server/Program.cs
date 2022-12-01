@@ -43,7 +43,7 @@ var app = builder.Build();
 /************ 포트 번호 변경 관련 ************/
 // Add for external access (Method 2)
 //builder.WebHost.UseUrls("http://*:80;https://*:443");
-builder.WebHost.UseUrls("http://*:80");       // http만 사용할거면 이것만 사용!
+builder.WebHost.UseUrls("http://*:8080");       // http만 사용할거면 이것만 사용!
 
 
 // Configure the HTTP request pipeline.
