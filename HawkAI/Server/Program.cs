@@ -6,6 +6,14 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Add for external access (Method 1)
+/*builder.WebHost.UseKestrel(serverOptions =>
+{
+    serverOptions.ListenAnyIP(8080);       // http만 사용할거면 이것만 사용!
+    serverOptions.ListenAnyIP(8081, listenOptions => listenOptions.UseHttps());
+});*/
+
+
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 /* To use mariadb */
@@ -42,7 +50,7 @@ var app = builder.Build();
 
 /************ 포트 번호 변경 관련 ************/
 // Add for external access (Method 2)
-builder.WebHost.UseUrls("http://*:8080;https://*:8081");
+//builder.WebHost.UseUrls("http://*:8080;https://*:8081");
 //builder.WebHost.UseUrls("http://*:8080");       // http만 사용할거면 이것만 사용!
 
 
