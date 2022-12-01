@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "32GENa/G0NWNQLNp5fCPl2eizxxJKApsQ0bnXb7YcaQ=",
+  "Hash": "a+GbolwiAwH+hKCG+ShvoBjGBofr0Ks61pLxXzVCYok=",
   "Source": "HawkAI.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7359,6 +7359,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\HawkAI_Logo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\HkSolution\\HawkAI\\Client\\wwwroot\\images\\HawkAI_Logo3.jpg",
+      "SourceId": "HawkAI.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\HkSolution\\HawkAI\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/HawkAI_Logo3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\HawkAI_Logo3.jpg"
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\HkSolution\\HawkAI\\Client\\wwwroot\\index.html",

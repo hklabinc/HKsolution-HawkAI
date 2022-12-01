@@ -1,3 +1,5 @@
+global using HawkAI.Client.Services.SuperHeroService;
+global using HawkAI.Shared;
 using HawkAI.Client;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
@@ -12,6 +14,8 @@ builder.Services.AddHttpClient("HawkAI.ServerAPI", client => client.BaseAddress 
 
 // Supply HttpClient instances that include access tokens when making requests to the server project
 builder.Services.AddScoped(sp => sp.GetRequiredService<IHttpClientFactory>().CreateClient("HawkAI.ServerAPI"));
+
+builder.Services.AddScoped<ISuperHeroService, SuperHeroService>();
 
 builder.Services.AddApiAuthorization();
 

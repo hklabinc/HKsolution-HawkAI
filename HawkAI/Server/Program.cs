@@ -1,8 +1,9 @@
-using HawkAI.Server.Data;
+global using HawkAI.Shared;
+global using Microsoft.EntityFrameworkCore;
+global using HawkAI.Server.Data;
 using HawkAI.Server.Models;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.ResponseCompression;
-using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +23,8 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 //builder.Services.AddDbContext<ApplicationDbContext>(options =>
 //    options.UseMySql(connectionString, new MySqlServerVersion(new Version(10,1,48))));    // ictrobot 서버것 (낮은 버전에서는 사이즈 문제로 오류 발생)
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseMySql(connectionString, new MySqlServerVersion(new Version(10, 3, 37))));    // capston 서버것
+builder.Services.AddDbContext<DataDbContext>(options =>
     options.UseMySql(connectionString, new MySqlServerVersion(new Version(10, 3, 37))));    // capston 서버것
 
 /* To use default localDB */

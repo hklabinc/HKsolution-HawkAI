@@ -65,6 +65,10 @@
       "url": "images\/HawkAI_Logo.jpg"
     },
     {
+      "hash": "sha256-is9lpFPnFJ3JP2kP1rUF9N80kKd1G12sXxlz7GZ9grI=",
+      "url": "images\/HawkAI_Logo3.jpg"
+    },
+    {
       "hash": "sha256-Wa8KTopRF9x+2\/O22C\/7hbv6EIQaZ1evThp9ffnPMDg=",
       "url": "index.html"
     },
@@ -873,19 +877,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-f0zJLbniJ29dUpkMkru4vgWDwLuHyo6VJxLcmb2bwfA=",
+      "hash": "sha256-+Vm6dv9P\/pHAT70lMVDzyBFTpzUJBqgdMjdLf+dWnSo=",
       "url": "_framework\/HawkAI.Shared.dll"
     },
     {
-      "hash": "sha256-EJ5vER6vA2qbKSzi6gUZkbN6f\/eJE0k117au+MCpvF8=",
+      "hash": "sha256-DDWNoQ4ckfgDRLKA7jc9BSPwZIfvONHCzDr7cTkyHfw=",
       "url": "_framework\/HawkAI.Shared.pdb"
     },
     {
-      "hash": "sha256-mb6Z\/yPKjo42eeA0mWGvdtQ\/vOR13k5advRHQvaXgsw=",
+      "hash": "sha256-g+g\/KgOSXJ\/pS1EYZZCyfXsz9MwYcTjhRH+bT4eVplU=",
       "url": "_framework\/HawkAI.Client.dll"
     },
     {
-      "hash": "sha256-u7OTvgc09nqzCZilPsS6ISN\/Yxv85o1o155Gv20m4gc=",
+      "hash": "sha256-KLwS3yivoQ5rkc20i\/FRxFvBAWTwLmfiKPSyxdEpmLE=",
       "url": "_framework\/HawkAI.Client.pdb"
     },
     {
@@ -893,7 +897,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-n01ky0A\/\/B5zcsY1y7Anc3yJ8jvpD4FoD6dh97mmLxI=",
+      "hash": "sha256-V6WditsW7glw2984KfQLyroINieMpOVJVYjjNc5r2vI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -901,5 +905,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "YtMw73bM"
+  "version": "Pmd\/fr37"
 };
