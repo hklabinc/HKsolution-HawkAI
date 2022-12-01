@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "xGZDYFMiNioTSy7F71aS8M0A4MPJ9VHF5ecQK5fB/o8=",
+  "Hash": "Ssa7qr19li0Wp6uckOal0iQJQLVsvumk7W2MpX6KcnE=",
   "Source": "HawkAI.Server",
   "BasePath": "_content/HawkAI.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\HKsolution\\HawkAI\\Client\\HawkAI.Client.csproj",
+      "Identity": "C:\\Users\\user\\source\\repos\\HkSolution\\HawkAI\\Client\\HawkAI.Client.csproj",
       "Version": 2,
       "Source": "HawkAI.Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
