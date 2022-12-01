@@ -200,14 +200,14 @@
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
       "HawkAI.Shared.dll": "sha256-f0zJLbniJ29dUpkMkru4vgWDwLuHyo6VJxLcmb2bwfA=",
-      "HawkAI.Client.dll": "sha256-mb6Z\/yPKjo42eeA0mWGvdtQ\/vOR13k5advRHQvaXgsw="
+      "HawkAI.Client.dll": "sha256-yUq2RBpQff\/rkNIGzUfhyeNgJU0BsdHe1SiL8jkFSj0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "HawkAI.Shared.pdb": "sha256-EJ5vER6vA2qbKSzi6gUZkbN6f\/eJE0k117au+MCpvF8=",
-      "HawkAI.Client.pdb": "sha256-u7OTvgc09nqzCZilPsS6ISN\/Yxv85o1o155Gv20m4gc="
+      "HawkAI.Client.pdb": "sha256-DTyiG0KLuIRTO0a+FZbVnRoiHD+W\/PUPmhvgX+DE5+Q="
     },
     "runtime": {
       "dotnet.6.0.1.sodeeb2473.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",

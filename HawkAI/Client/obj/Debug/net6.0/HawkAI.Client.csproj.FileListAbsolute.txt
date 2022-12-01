@@ -819,10 +819,6 @@ C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\uD
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\8oxKdVqI.gz
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\tmYxpXzk.gz
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\JSde3Je6.gz
-C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\KCP3LkXY.gz
-C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\+TFXTjFT.gz
-C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\QUi7y6Nt.gz
-C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\xSby6aUn.gz
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\build-gz\S6o+ci1G.gz
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\blazor.boot.json
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\staticwebassets.build.json
@@ -837,3 +833,7 @@ C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\HawkAI.Clie
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\HawkAI.Client.dll
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\ref\HawkAI.Client.dll
 C:\Users\user\source\repos\HKsolution\HawkAI\Client\obj\Debug\net6.0\HawkAI.Client.pdb
+C:\Users\user\source\repos\HkSolution\HawkAI\Client\obj\Debug\net6.0\build-gz\p9G1CxII.gz
+C:\Users\user\source\repos\HkSolution\HawkAI\Client\obj\Debug\net6.0\build-gz\1Q+GakPg.gz
+C:\Users\user\source\repos\HkSolution\HawkAI\Client\obj\Debug\net6.0\build-gz\q+TvnyvB.gz
+C:\Users\user\source\repos\HkSolution\HawkAI\Client\obj\Debug\net6.0\build-gz\fsZCtvSL.gz

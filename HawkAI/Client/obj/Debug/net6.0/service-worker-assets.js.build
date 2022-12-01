@@ -61,6 +61,10 @@
       "url": "icon-512.png"
     },
     {
+      "hash": "sha256-5B6mhczcoKanlamwNbF+r1h2HunP78eWU6Vi5F38Bdw=",
+      "url": "images\/HawkAI_Logo.jpg"
+    },
+    {
       "hash": "sha256-Wa8KTopRF9x+2\/O22C\/7hbv6EIQaZ1evThp9ffnPMDg=",
       "url": "index.html"
     },
@@ -897,5 +901,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "TNEFah1B"
+  "version": "YtMw73bM"
 };
